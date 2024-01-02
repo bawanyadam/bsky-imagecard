@@ -1,3 +1,6 @@
+<link rel="apple-touch-icon" sizes="57x57" href="https://bsky.app/static/apple-touch-icon.png"/>
+<link rel="apple-touch-icon" sizes="180x180" href="https://bsky.app/static/apple-touch-icon.png"/>
+<link rel="apple-touch-icon" sizes="256x256" href="https://bsky.app/static/apple-touch-icon.png"/>
 <?php
 // Retrieve the URL from the 'q' GET parameter
 $url = isset($_GET['q']) ? $_GET['q'] : '';
